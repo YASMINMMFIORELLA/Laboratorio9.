@@ -23,9 +23,9 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #d11919;
+    background-color: #86c7ec;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(195, 212, 216, 0.1);
+    box-shadow: 0 0 10px rgba(9, 124, 150, 0.1);
 }
 
 .container h2 {
