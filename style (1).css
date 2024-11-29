@@ -8,7 +8,7 @@
 
 /* Estilos para la barra de navegación */
 nav a {
-    color: black;
+    color: rgb(212, 8, 8);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -23,7 +23,7 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #ca8d8d;
+    background-color: #d11919;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(195, 212, 216, 0.1);
 }
